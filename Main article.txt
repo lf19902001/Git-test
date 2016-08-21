@@ -1,2 +1,4 @@
 Write by author A.
 Write by author B.
+
+More from author B.
