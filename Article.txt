@@ -1,7 +1,0 @@
-Original article.
-Original article.
-<<<<<<< HEAD
-=======
-
-Write by author 2.
->>>>>>> refs/heads/Author2
