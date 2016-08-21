@@ -1,2 +1,7 @@
 Original article.
+<<<<<<< HEAD
 Write by author 1.
+=======
+
+Writhe by author 2. 
+>>>>>>> refs/heads/Author2
